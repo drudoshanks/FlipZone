@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436832562064",
+    "project_id": "flipzone-fe465",
+    "storage_bucket": "flipzone-fe465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436832562064:android:e3f7ece29a534818cc2115",
+        "android_client_info": {
+          "package_name": "com.flipzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436832562064-vu5v9hamv9uqvtbioeskklavge7mmcqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC7Vya3ll945zHwErt4P0dRbIcYSPB268"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436832562064-vu5v9hamv9uqvtbioeskklavge7mmcqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
